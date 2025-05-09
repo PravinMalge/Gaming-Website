@@ -49,3 +49,12 @@ Feel free to reach out for feedback or collaboration!
    `https://PravinMalge.github.io/Gaming-Website/`
 
 ---
+
+
+## 📸 Screenshots
+
+
+
+https://github.com/user-attachments/assets/b04d3665-772b-4d5c-9492-5d0487d54f19
+
+

@@ -29,7 +29,7 @@ Welcome to **Zentry**, a futuristic and immersive gaming concept website. This s
 
 ## 🌐 Live Demo
 
-> 🔗 [View Live Website](https://your-github-username.github.io/Gaming-Website/)  
+> 🔗 https://gaming-website-gray-kappa.vercel.app/
 
 ---
 
